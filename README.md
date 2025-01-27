@@ -4,6 +4,9 @@
 The **Tech Gadget Store** is a responsive e-commerce web application designed for showcasing and selling high-end laptops and gadgets. The site provides a user-friendly interface to explore product categories, view product details, and learn about the company.
 
 ---
+<img src="https://github.com/01Ruwantha/HTML/blob/9fb43613dac56dd73fe9018c329d390c294acba6/Home%20page.jpeg"/>
+
+---
 
 ## Features
 ### Home Page
