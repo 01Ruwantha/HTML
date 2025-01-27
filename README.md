@@ -6,6 +6,8 @@ The **Tech Gadget Store** is a responsive e-commerce web application designed fo
 ---
 <img src="https://github.com/01Ruwantha/HTML/blob/9fb43613dac56dd73fe9018c329d390c294acba6/Home%20page.jpeg"/>
 
+<img src="https://github.com/01Ruwantha/HTML/blob/073450c24098b4fd1743860730c8de75784d2a5b/page.jpeg"/>
+
 ---
 
 ## Features
